@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ 
+/* .header{
+    color: orange;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 1px solid orange;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px orange;
+}
+.nav-items{
+    margin-right: 50px;
+
+}
+.nav-items>ul{
+    list-style: none;
+    display: flex;
+}
+
+.nav-items>ul>li{
+    padding: 10px;
+}
+
+.logo{
+    width: 80px;
+}
+.card{
+    border: 1px solid lightgray;
+    box-shadow: 10px 10px 5px gainsboro ;
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+}
+.card>img{
+    width: 100%;
+}
+
+.restaurant-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#cuisines{
+    color: grey;
+}
+
+.search-container{
+    margin-left: 10px;
+}
+
+#login{
+    height: 40px;
+    width: 60px;
+    margin: 21px;
+    background-color: grey;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+}
+#logout{
+    height: 40px;
+    width: 60px;
+    margin: 21px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+#dishes{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.search-btn{
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 21px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.search-input{
+    border: 1px solid lightgray;
+    height: 20px;
+    border-radius: 5px;
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.shimmerCard{
+    height: 350px;
+    width: 250px;
+    border: 1px solid lightgray;
+    box-shadow: 5px 5px 5px lightgrey;
+    margin: 10px;
+}
+.shimmer-search{
+    border: 1px solid lightgray;
+    height: 20px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.shimmer-btn{
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 21px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.error-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.errorImage{
+    width: fit-content;
+    height: fit-content;
+    position: static;
+}
+.link{
+    text-decoration: none;
+    color: orange;
+    margin: 10px;
+} */
